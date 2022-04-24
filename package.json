@@ -1,0 +1,19 @@
+{
+  "name": "blogserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "express-async-error": "^0.0.2",
+    "express-async-errors": "^3.1.1",
+    "morgan": "^1.10.0"
+  }
+}
